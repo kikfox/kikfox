@@ -10,7 +10,7 @@
 ## Downloads 
 * [Prebuilt jar file ](../master/bin/kikfox.jar)
 * [Jar](https://raw.githubusercontent.com/kikfox/kikfox/main/bin/kikfox.jar)
-* [Sample decompiled ](../master/samples/tiktok.apk)
+* [Sample decompiled (tiktok 20.0.3)](https://mega.nz/file/VnoEmIQL#TQhMPLPk9ZyDkc6GV_YrmkWAjSoHejqdBR5zHJ2d-2c)
 ## Source code
 * Coming soon
 ## How to decompile/recompile
@@ -136,5 +136,5 @@ I: Copying META-INF/services 'base.apk'
 ```
 
 ## Support
-* If you like this project, please donate in bitcoin
+* If you like this project, please consider donationation in bitcoin
  ## 1FfTD5pgib7eRJAfNSa3JVTRwoBELBNPRV
