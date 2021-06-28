@@ -134,4 +134,6 @@ I: Copying META-INF/services 'base.apk'
 
 ```
 
-
+## Support
+* If you like this project, please donate in bitcoin
+ ## 1FfTD5pgib7eRJAfNSa3JVTRwoBELBNPRV
