@@ -9,6 +9,7 @@
 
 ## Downloads 
 * [Prebuilt jar file ](../master/bin/kikfox.jar)
+* [Jar](https://raw.githubusercontent.com/kikfox/kikfox/main/bin/kikfox.jar)
 * [Sample decompiled ](../master/samples/tiktok.apk)
 ## Source code
 * Coming soon
