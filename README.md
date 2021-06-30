@@ -134,7 +134,9 @@ I: Copying META-INF/services 'base.apk'
 
 
 ```
-
+## Apk upload
+* If this tool is failed to decompile your apk, send directly to my email or
+* upload to this [Megaupload folder](https://mega.nz/megadrop/2SJo3jnhJQc)
 ## Support
 * If you like this project, please consider donationation in bitcoin
  ## 1FfTD5pgib7eRJAfNSa3JVTRwoBELBNPRV
