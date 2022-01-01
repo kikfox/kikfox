@@ -105,3 +105,4 @@ I: Copying META-INF/services 'base.apk'
  
 ## Contact
  * thekikfox@gmail.com
+ * [Telegram](https://t.me/kikfox)
