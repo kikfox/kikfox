@@ -5,10 +5,10 @@
 ## [README2](./README2.md)
 
 
-# 2. ARSCTool 
-(AAPT independent android resources.arsc tool)
-[https://github.com/kikfox/ARSCTool](https://github.com/kikfox/ARSCTool)
-## [README](https://github.com/kikfox/ARSCTool/blob/main/README.md)
+# 2. APKEditor *** NEW ***
+(AAPT independent android resources read write tool)
+[https://github.com/REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
+
 
 
 ### Contact
